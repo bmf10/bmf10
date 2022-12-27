@@ -17,7 +17,7 @@
 
 
 
-### Glad to see you here!  
+### Nice to see you here!  
 I am a Fullstack Developer with a strong passion for the world
 programming and likes to learn new things. Experienced work
 team or individual. Able to create Backend with Javascript or
