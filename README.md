@@ -18,18 +18,24 @@
 
 
 ### Nice to see you here!  
-I am a Fullstack Developer with a strong passion for the world
-programming and likes to learn new things. Experienced work
-team or individual. Able to create Backend with Javascript or
-TypeScript (Express JS) and PHP (CodeIgniter and Laravel), and
-Frontend with ReactJs, React Native, and Native HTML and CSS.  
+Hi, I’m Bima - a Fullstack Engineer who loves building websites and apps that solve real-world problems.
+
+I’m currently working with MetacoGG, where I contribute to the development of websites, chat features, payment gateway integration, and group tournament systems. I use technologies such as Next JS, Express, Mongo, and etc to create user-friendly and scalable solutions.
+
+I have a passion for learning new skills and technologies, and I always strive to deliver high-quality work that meets the expectations of my clients. I have also worked on big company projects such as ASD Bakrie, PMI Indonesia, and Lokakain, where I gained valuable experience in different domains and industries.
+
+I hold an Associate Degree in Information System from Universitas Bina Sarana Informatika with a GPA of 3.80. I have also completed several online courses and certifications on web development. You can check out some of my projects on my portfolio website: https://bento.me/bmf10
+
+When I’m not coding or learning new things, I enjoy playing games 🎮 , watching movies 🎥 , reading books 📚 , and traveling 🌎 .
+
+If you are looking for a Fullstack Engineer who can help you with your web development needs or want to collaborate on some exciting projects #fullstack #webdevelopment #nextjs #express #firebase, feel free to connect with me.
   
 
 <br/>  
 
 
 ## Rapidfire 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Metaco GG](https://metaco.gg) as Fullstack Developer  
   
@@ -41,13 +47,6 @@ Frontend with ReactJs, React Native, and Native HTML and CSS.
   
 
 - ⚡ Fun fact: I Love Playing FPS/Shooter Games 🔫  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
