@@ -37,10 +37,10 @@ If you are looking for a Fullstack Engineer who can help you with your web devel
 ## Rapidfire 
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Metaco GG](https://metaco.gg) as Fullstack Developer  
+- 🔭 I’m currently working on [AOneSchools](https://aoneschools.com) as Fullstack Developer & Mobile Developer  
   
 
-- 🌱 I’m currently learning Mongo DB and GraphQL  
+- 🌱 I’m currently learning Mongo DB and GraphQL
   
 
 -  💬 Ask me about Node JS, Next JS, Typescript, and PHP  
@@ -89,10 +89,3 @@ If you are looking for a Fullstack Engineer who can help you with your web devel
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<div style="display:flex; gap: 10px;align-items:stretch">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmf10&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</div>
