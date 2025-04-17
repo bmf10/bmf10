@@ -15,21 +15,21 @@
 </a>  
   
 
-
-
 ### Nice to see you here!  
+
 Hi, I’m Bima - a Fullstack Engineer who loves building websites and apps that solve real-world problems.
 
-I’m currently working with MetacoGG, where I contribute to the development of websites, chat features, payment gateway integration, and group tournament systems. I use technologies such as Next JS, Express, Mongo, and etc to create user-friendly and scalable solutions.
+I’m currently working with AOneschools, where I enhance web applications by introducing new features using Nuxt.js/Vue for the frontend and Laravel for the backend. I also manage mobile apps across platforms like Playstore, App Store, and Huawei Gallery. My previous roles include working at Metaco GG, where I contributed to the development of the Metaco Esport Network, chat features, payment gateway integration, and group tournament systems. I use technologies such as Next JS, Express, MongoDB, and more to create user-friendly and scalable solutions.
 
-I have a passion for learning new skills and technologies, and I always strive to deliver high-quality work that meets the expectations of my clients. I have also worked on big company projects such as ASD Bakrie, PMI Indonesia, and Lokakain, where I gained valuable experience in different domains and industries.
+I have a passion for learning new skills and technologies, and I always strive to deliver high-quality work that meets the expectations of my clients. I have also worked on major projects for companies such as ASD Bakrie, PMI Indonesia, and Lokakain while at Breef Studio, where I gained valuable experience in different domains and industries.
 
-I hold an Associate Degree in Information System from Universitas Bina Sarana Informatika with a GPA of 3.80. I have also completed several online courses and certifications on web development. You can check out some of my projects on my portfolio website: https://bento.me/bmf10
+I hold an Associate Degree in Information System from Universitas Bina Sarana Informatika with a GPA of 3.80. I have also completed a Software Engineering Bootcamp at Fazztrack, focusing on JavaScript, ReactJS, and ExpressJS. You can check out some of my projects on my portfolio website: https://bmf10.github.io
 
-When I’m not coding or learning new things, I enjoy playing games 🎮 , watching movies 🎥 , reading books 📚 , and traveling 🌎 .
+When I’m not coding or learning new things, I enjoy playing games 🎮, watching movies 🎥, reading books 📚, and traveling 🌎.
 
-If you are looking for a Fullstack Engineer who can help you with your web development needs or want to collaborate on some exciting projects #fullstack #webdevelopment #nextjs #express #firebase, feel free to connect with me.
-  
+If you are looking for a Fullstack Engineer who can help you with your web development needs or want to collaborate on some exciting projects, feel free to connect with me.
+
+#fullstack #webdevelopment #nextjs #express #firebase
 
 <br/>  
 
